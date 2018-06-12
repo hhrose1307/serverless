@@ -1,0 +1,12 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.6",
+    "serverless-offline": "^3.25.4",
+    "serverless-plugin-typescript": "^1.1.5",
+    "tslint": "^5.10.0"
+  }
+}
